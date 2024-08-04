@@ -1,6 +1,6 @@
 # requests apis
 
-Foobar is a Python library for dealing with word pluralization.
+javascript react controling in data from server side
 
 ## method "GET" data
 
