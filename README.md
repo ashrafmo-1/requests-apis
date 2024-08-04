@@ -1,6 +1,6 @@
 # requests apis
 
-javascript react controling in data from server side
+All possible forms are exposed to dealing with the api.
 
 ## method "GET" data
 
